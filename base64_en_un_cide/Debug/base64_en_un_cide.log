@@ -1,0 +1,3 @@
+﻿  base64_en_un_cide.cpp
+c:\users\iluoli\source\repos\base64_en_un_cide\base64_en_un_cide\base64_en_un_cide.cpp(29): warning C4244: “初始化”: 从“std::streamoff”转换到“int”，可能丢失数据
+  base64_en_un_cide.vcxproj -> C:\Users\iluoli\source\repos\base64_en_un_cide\Debug\base64_en_un_cide.exe
